@@ -29,6 +29,16 @@ public class CurrencyDatabaseHelper extends SQLiteOpenHelper {
     @Override
     public void onCreate(SQLiteDatabase db) {
         db.execSQL(CREATE_TABLE_CURRENCY);
+        seedInitialCurrencyData(db);
+        System.out.println("new database has been created");
+    }
+
+
+    private void seedInitialCurrencyData(SQLiteDatabase db) {
+        ContentValues values = new ContentValues();
+        values.put(COLUMN_AMOUNT, 100); // Set the initial currency amount
+
+        db.insert(TABLE_CURRENCY, null, values);
     }
 
     @Override
