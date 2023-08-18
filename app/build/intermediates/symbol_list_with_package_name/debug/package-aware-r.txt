@@ -2608,6 +2608,7 @@ id button
 id button2
 id button3
 id button4
+id button5
 id buttonPanel
 id cache_measures
 id callMeasure
@@ -2645,6 +2646,7 @@ id continuousVelocity
 id coordinator
 id cos
 id counterclockwise
+id currencyTextView
 id currentState
 id custom
 id customPanel

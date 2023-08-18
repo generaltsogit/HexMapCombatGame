@@ -64,16 +64,8 @@
         "source": "C:\\Users\\willd\\.gradle\\daemon\\7.5\\com.example.hexmapcombatgame.app-main-27:\\layout\\activity_conquest_page.xml"
     },
     {
-        "merged": "com.example.hexmapcombatgame.app-merged_res-25:/layout_activity_conquest_page.xml.flat",
-        "source": "com.example.hexmapcombatgame.app-main-27:/layout/activity_conquest_page.xml"
-    },
-    {
         "merged": "C:\\Users\\willd\\.gradle\\daemon\\7.5\\com.example.hexmapcombatgame.app-merged_res-25:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
         "source": "C:\\Users\\willd\\.gradle\\daemon\\7.5\\com.example.hexmapcombatgame.app-main-27:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
-    },
-    {
-        "merged": "com.example.hexmapcombatgame.app-merged_res-25:/layout_activity_main.xml.flat",
-        "source": "com.example.hexmapcombatgame.app-main-27:/layout/activity_main.xml"
     },
     {
         "merged": "C:\\Users\\willd\\.gradle\\daemon\\7.5\\com.example.hexmapcombatgame.app-merged_res-25:\\mipmap-xxxhdpi_ic_launcher.webp.flat",

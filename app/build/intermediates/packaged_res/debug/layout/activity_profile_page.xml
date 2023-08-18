@@ -13,4 +13,16 @@
           android:layout_height="wrap_content" android:id="@+id/button3"
           app:layout_constraintEnd_toEndOf="parent" app:layout_constraintBottom_toBottomOf="parent"
           android:onClick="goBackToMainActivity" android:backgroundTint="#3E0909"/>
+  <TextView
+          android:text="Currency Text"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content" android:id="@+id/currencyTextView"
+          app:layout_constraintTop_toTopOf="parent" app:layout_constraintStart_toStartOf="parent"
+          android:layout_marginStart="24dp" android:layout_marginTop="16dp"/>
+  <Button
+          android:text="+100 Money"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content" android:id="@+id/button5"
+          app:layout_constraintTop_toBottomOf="@+id/currencyTextView" app:layout_constraintStart_toStartOf="parent"
+          android:layout_marginStart="24dp" android:onClick="addCurrency"/>
 </androidx.constraintlayout.widget.ConstraintLayout>

@@ -13,6 +13,8 @@ id button
 id button2
 id button3
 id button4
+id button5
+id currencyTextView
 layout activity_conquest_page
 layout activity_main
 layout activity_profile_page
