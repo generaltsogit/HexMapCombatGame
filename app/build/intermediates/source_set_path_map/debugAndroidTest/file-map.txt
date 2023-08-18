@@ -1,0 +1,7 @@
+com.example.hexmapcombatgame.test.app-androidTest-0 C:\Users\willd\Documents\AndroidAppIntelliJ\app\build\generated\res\resValues\androidTest\debug
+com.example.hexmapcombatgame.test.app-androidTest-1 C:\Users\willd\Documents\AndroidAppIntelliJ\app\build\generated\res\rs\androidTest\debug
+com.example.hexmapcombatgame.test.app-mergeDebugAndroidTestResources-2 C:\Users\willd\Documents\AndroidAppIntelliJ\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.hexmapcombatgame.test.app-mergeDebugAndroidTestResources-3 C:\Users\willd\Documents\AndroidAppIntelliJ\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.hexmapcombatgame.test.app-merged_res-4 C:\Users\willd\Documents\AndroidAppIntelliJ\app\build\intermediates\merged_res\debugAndroidTest
+com.example.hexmapcombatgame.test.app-androidTest-5 C:\Users\willd\Documents\AndroidAppIntelliJ\app\src\androidTest\res
+com.example.hexmapcombatgame.test.app-androidTestDebug-6 C:\Users\willd\Documents\AndroidAppIntelliJ\app\src\androidTestDebug\res
