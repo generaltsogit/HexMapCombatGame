@@ -28,7 +28,7 @@
 18-->C:\Users\willd\Documents\AndroidAppIntelliJ\app\src\main\AndroidManifest.xml:12:13-36
 19
 20    <application
-20-->C:\Users\willd\Documents\AndroidAppIntelliJ\app\src\main\AndroidManifest.xml:14:5-62:19
+20-->C:\Users\willd\Documents\AndroidAppIntelliJ\app\src\main\AndroidManifest.xml:14:5-63:19
 21        android:allowBackup="true"
 21-->C:\Users\willd\Documents\AndroidAppIntelliJ\app\src\main\AndroidManifest.xml:15:13-39
 22        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
@@ -51,96 +51,98 @@
 32        android:theme="@style/Theme.HexMapCombatGame" >
 32-->C:\Users\willd\Documents\AndroidAppIntelliJ\app\src\main\AndroidManifest.xml:22:13-58
 33        <activity
-33-->C:\Users\willd\Documents\AndroidAppIntelliJ\app\src\main\AndroidManifest.xml:24:9-30:20
+33-->C:\Users\willd\Documents\AndroidAppIntelliJ\app\src\main\AndroidManifest.xml:24:9-31:20
 34            android:name="com.example.hexmapcombatgame.BattleMapActivity"
 34-->C:\Users\willd\Documents\AndroidAppIntelliJ\app\src\main\AndroidManifest.xml:25:17-50
-35            android:exported="false" >
+35            android:exported="false"
 35-->C:\Users\willd\Documents\AndroidAppIntelliJ\app\src\main\AndroidManifest.xml:26:17-41
-36            <meta-data
-36-->C:\Users\willd\Documents\AndroidAppIntelliJ\app\src\main\AndroidManifest.xml:27:13-29:39
-37                android:name="android.app.lib_name"
-37-->C:\Users\willd\Documents\AndroidAppIntelliJ\app\src\main\AndroidManifest.xml:28:21-56
-38                android:value="" />
-38-->C:\Users\willd\Documents\AndroidAppIntelliJ\app\src\main\AndroidManifest.xml:29:21-37
-39        </activity>
-40        <activity
-40-->C:\Users\willd\Documents\AndroidAppIntelliJ\app\src\main\AndroidManifest.xml:32:9-39:20
-41            android:name="com.example.hexmapcombatgame.ProfilePageActivity"
-41-->C:\Users\willd\Documents\AndroidAppIntelliJ\app\src\main\AndroidManifest.xml:33:17-52
-42            android:exported="false"
-42-->C:\Users\willd\Documents\AndroidAppIntelliJ\app\src\main\AndroidManifest.xml:34:17-41
-43            android:screenOrientation="landscape" >
-43-->C:\Users\willd\Documents\AndroidAppIntelliJ\app\src\main\AndroidManifest.xml:35:17-54
-44            <meta-data
-44-->C:\Users\willd\Documents\AndroidAppIntelliJ\app\src\main\AndroidManifest.xml:27:13-29:39
-45                android:name="android.app.lib_name"
-45-->C:\Users\willd\Documents\AndroidAppIntelliJ\app\src\main\AndroidManifest.xml:28:21-56
-46                android:value="" />
-46-->C:\Users\willd\Documents\AndroidAppIntelliJ\app\src\main\AndroidManifest.xml:29:21-37
-47        </activity>
-48        <activity
-48-->C:\Users\willd\Documents\AndroidAppIntelliJ\app\src\main\AndroidManifest.xml:40:9-47:20
-49            android:name="com.example.hexmapcombatgame.ConquestPageActivity"
-49-->C:\Users\willd\Documents\AndroidAppIntelliJ\app\src\main\AndroidManifest.xml:41:17-53
-50            android:exported="false"
-50-->C:\Users\willd\Documents\AndroidAppIntelliJ\app\src\main\AndroidManifest.xml:42:17-41
-51            android:screenOrientation="landscape" >
-51-->C:\Users\willd\Documents\AndroidAppIntelliJ\app\src\main\AndroidManifest.xml:43:17-54
-52            <meta-data
-52-->C:\Users\willd\Documents\AndroidAppIntelliJ\app\src\main\AndroidManifest.xml:27:13-29:39
-53                android:name="android.app.lib_name"
-53-->C:\Users\willd\Documents\AndroidAppIntelliJ\app\src\main\AndroidManifest.xml:28:21-56
-54                android:value="" />
-54-->C:\Users\willd\Documents\AndroidAppIntelliJ\app\src\main\AndroidManifest.xml:29:21-37
-55        </activity>
-56        <activity
-56-->C:\Users\willd\Documents\AndroidAppIntelliJ\app\src\main\AndroidManifest.xml:48:9-61:20
-57            android:name="com.example.hexmapcombatgame.MainActivity"
-57-->C:\Users\willd\Documents\AndroidAppIntelliJ\app\src\main\AndroidManifest.xml:49:17-45
-58            android:exported="true"
-58-->C:\Users\willd\Documents\AndroidAppIntelliJ\app\src\main\AndroidManifest.xml:50:17-40
-59            android:screenOrientation="landscape" >
-59-->C:\Users\willd\Documents\AndroidAppIntelliJ\app\src\main\AndroidManifest.xml:51:17-54
-60            <intent-filter>
-60-->C:\Users\willd\Documents\AndroidAppIntelliJ\app\src\main\AndroidManifest.xml:52:13-56:29
-61                <action android:name="android.intent.action.MAIN" />
-61-->C:\Users\willd\Documents\AndroidAppIntelliJ\app\src\main\AndroidManifest.xml:53:17-68
-61-->C:\Users\willd\Documents\AndroidAppIntelliJ\app\src\main\AndroidManifest.xml:53:25-66
-62
-63                <category android:name="android.intent.category.LAUNCHER" />
-63-->C:\Users\willd\Documents\AndroidAppIntelliJ\app\src\main\AndroidManifest.xml:55:17-76
-63-->C:\Users\willd\Documents\AndroidAppIntelliJ\app\src\main\AndroidManifest.xml:55:27-74
-64            </intent-filter>
-65
-66            <meta-data
-66-->C:\Users\willd\Documents\AndroidAppIntelliJ\app\src\main\AndroidManifest.xml:27:13-29:39
-67                android:name="android.app.lib_name"
-67-->C:\Users\willd\Documents\AndroidAppIntelliJ\app\src\main\AndroidManifest.xml:28:21-56
-68                android:value="" />
-68-->C:\Users\willd\Documents\AndroidAppIntelliJ\app\src\main\AndroidManifest.xml:29:21-37
-69        </activity>
-70
-71        <provider
-71-->[androidx.emoji2:emoji2:1.0.0] C:\Users\willd\.gradle\caches\transforms-3\ba6262270fd4f3b49da8812088f6aa8b\transformed\emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
-72            android:name="androidx.startup.InitializationProvider"
-72-->[androidx.emoji2:emoji2:1.0.0] C:\Users\willd\.gradle\caches\transforms-3\ba6262270fd4f3b49da8812088f6aa8b\transformed\emoji2-1.0.0\AndroidManifest.xml:27:13-67
-73            android:authorities="com.example.hexmapcombatgame.androidx-startup"
-73-->[androidx.emoji2:emoji2:1.0.0] C:\Users\willd\.gradle\caches\transforms-3\ba6262270fd4f3b49da8812088f6aa8b\transformed\emoji2-1.0.0\AndroidManifest.xml:28:13-68
-74            android:exported="false" >
-74-->[androidx.emoji2:emoji2:1.0.0] C:\Users\willd\.gradle\caches\transforms-3\ba6262270fd4f3b49da8812088f6aa8b\transformed\emoji2-1.0.0\AndroidManifest.xml:29:13-37
-75            <meta-data
-75-->[androidx.emoji2:emoji2:1.0.0] C:\Users\willd\.gradle\caches\transforms-3\ba6262270fd4f3b49da8812088f6aa8b\transformed\emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
-76                android:name="androidx.emoji2.text.EmojiCompatInitializer"
-76-->[androidx.emoji2:emoji2:1.0.0] C:\Users\willd\.gradle\caches\transforms-3\ba6262270fd4f3b49da8812088f6aa8b\transformed\emoji2-1.0.0\AndroidManifest.xml:32:17-75
-77                android:value="androidx.startup" />
-77-->[androidx.emoji2:emoji2:1.0.0] C:\Users\willd\.gradle\caches\transforms-3\ba6262270fd4f3b49da8812088f6aa8b\transformed\emoji2-1.0.0\AndroidManifest.xml:33:17-49
-78            <meta-data
-78-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\willd\.gradle\caches\transforms-3\257021353500c848c3c07ed8e2eadf9a\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
-79                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
-79-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\willd\.gradle\caches\transforms-3\257021353500c848c3c07ed8e2eadf9a\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
-80                android:value="androidx.startup" />
-80-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\willd\.gradle\caches\transforms-3\257021353500c848c3c07ed8e2eadf9a\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
-81        </provider>
-82    </application>
-83
-84</manifest>
+36            android:screenOrientation="landscape" >
+36-->C:\Users\willd\Documents\AndroidAppIntelliJ\app\src\main\AndroidManifest.xml:27:17-54
+37            <meta-data
+37-->C:\Users\willd\Documents\AndroidAppIntelliJ\app\src\main\AndroidManifest.xml:28:13-30:39
+38                android:name="android.app.lib_name"
+38-->C:\Users\willd\Documents\AndroidAppIntelliJ\app\src\main\AndroidManifest.xml:29:21-56
+39                android:value="" />
+39-->C:\Users\willd\Documents\AndroidAppIntelliJ\app\src\main\AndroidManifest.xml:30:21-37
+40        </activity>
+41        <activity
+41-->C:\Users\willd\Documents\AndroidAppIntelliJ\app\src\main\AndroidManifest.xml:33:9-40:20
+42            android:name="com.example.hexmapcombatgame.ProfilePageActivity"
+42-->C:\Users\willd\Documents\AndroidAppIntelliJ\app\src\main\AndroidManifest.xml:34:17-52
+43            android:exported="false"
+43-->C:\Users\willd\Documents\AndroidAppIntelliJ\app\src\main\AndroidManifest.xml:35:17-41
+44            android:screenOrientation="landscape" >
+44-->C:\Users\willd\Documents\AndroidAppIntelliJ\app\src\main\AndroidManifest.xml:36:17-54
+45            <meta-data
+45-->C:\Users\willd\Documents\AndroidAppIntelliJ\app\src\main\AndroidManifest.xml:28:13-30:39
+46                android:name="android.app.lib_name"
+46-->C:\Users\willd\Documents\AndroidAppIntelliJ\app\src\main\AndroidManifest.xml:29:21-56
+47                android:value="" />
+47-->C:\Users\willd\Documents\AndroidAppIntelliJ\app\src\main\AndroidManifest.xml:30:21-37
+48        </activity>
+49        <activity
+49-->C:\Users\willd\Documents\AndroidAppIntelliJ\app\src\main\AndroidManifest.xml:41:9-48:20
+50            android:name="com.example.hexmapcombatgame.ConquestPageActivity"
+50-->C:\Users\willd\Documents\AndroidAppIntelliJ\app\src\main\AndroidManifest.xml:42:17-53
+51            android:exported="false"
+51-->C:\Users\willd\Documents\AndroidAppIntelliJ\app\src\main\AndroidManifest.xml:43:17-41
+52            android:screenOrientation="landscape" >
+52-->C:\Users\willd\Documents\AndroidAppIntelliJ\app\src\main\AndroidManifest.xml:44:17-54
+53            <meta-data
+53-->C:\Users\willd\Documents\AndroidAppIntelliJ\app\src\main\AndroidManifest.xml:28:13-30:39
+54                android:name="android.app.lib_name"
+54-->C:\Users\willd\Documents\AndroidAppIntelliJ\app\src\main\AndroidManifest.xml:29:21-56
+55                android:value="" />
+55-->C:\Users\willd\Documents\AndroidAppIntelliJ\app\src\main\AndroidManifest.xml:30:21-37
+56        </activity>
+57        <activity
+57-->C:\Users\willd\Documents\AndroidAppIntelliJ\app\src\main\AndroidManifest.xml:49:9-62:20
+58            android:name="com.example.hexmapcombatgame.MainActivity"
+58-->C:\Users\willd\Documents\AndroidAppIntelliJ\app\src\main\AndroidManifest.xml:50:17-45
+59            android:exported="true"
+59-->C:\Users\willd\Documents\AndroidAppIntelliJ\app\src\main\AndroidManifest.xml:51:17-40
+60            android:screenOrientation="landscape" >
+60-->C:\Users\willd\Documents\AndroidAppIntelliJ\app\src\main\AndroidManifest.xml:52:17-54
+61            <intent-filter>
+61-->C:\Users\willd\Documents\AndroidAppIntelliJ\app\src\main\AndroidManifest.xml:53:13-57:29
+62                <action android:name="android.intent.action.MAIN" />
+62-->C:\Users\willd\Documents\AndroidAppIntelliJ\app\src\main\AndroidManifest.xml:54:17-68
+62-->C:\Users\willd\Documents\AndroidAppIntelliJ\app\src\main\AndroidManifest.xml:54:25-66
+63
+64                <category android:name="android.intent.category.LAUNCHER" />
+64-->C:\Users\willd\Documents\AndroidAppIntelliJ\app\src\main\AndroidManifest.xml:56:17-76
+64-->C:\Users\willd\Documents\AndroidAppIntelliJ\app\src\main\AndroidManifest.xml:56:27-74
+65            </intent-filter>
+66
+67            <meta-data
+67-->C:\Users\willd\Documents\AndroidAppIntelliJ\app\src\main\AndroidManifest.xml:28:13-30:39
+68                android:name="android.app.lib_name"
+68-->C:\Users\willd\Documents\AndroidAppIntelliJ\app\src\main\AndroidManifest.xml:29:21-56
+69                android:value="" />
+69-->C:\Users\willd\Documents\AndroidAppIntelliJ\app\src\main\AndroidManifest.xml:30:21-37
+70        </activity>
+71
+72        <provider
+72-->[androidx.emoji2:emoji2:1.0.0] C:\Users\willd\.gradle\caches\transforms-3\ba6262270fd4f3b49da8812088f6aa8b\transformed\emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+73            android:name="androidx.startup.InitializationProvider"
+73-->[androidx.emoji2:emoji2:1.0.0] C:\Users\willd\.gradle\caches\transforms-3\ba6262270fd4f3b49da8812088f6aa8b\transformed\emoji2-1.0.0\AndroidManifest.xml:27:13-67
+74            android:authorities="com.example.hexmapcombatgame.androidx-startup"
+74-->[androidx.emoji2:emoji2:1.0.0] C:\Users\willd\.gradle\caches\transforms-3\ba6262270fd4f3b49da8812088f6aa8b\transformed\emoji2-1.0.0\AndroidManifest.xml:28:13-68
+75            android:exported="false" >
+75-->[androidx.emoji2:emoji2:1.0.0] C:\Users\willd\.gradle\caches\transforms-3\ba6262270fd4f3b49da8812088f6aa8b\transformed\emoji2-1.0.0\AndroidManifest.xml:29:13-37
+76            <meta-data
+76-->[androidx.emoji2:emoji2:1.0.0] C:\Users\willd\.gradle\caches\transforms-3\ba6262270fd4f3b49da8812088f6aa8b\transformed\emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+77                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+77-->[androidx.emoji2:emoji2:1.0.0] C:\Users\willd\.gradle\caches\transforms-3\ba6262270fd4f3b49da8812088f6aa8b\transformed\emoji2-1.0.0\AndroidManifest.xml:32:17-75
+78                android:value="androidx.startup" />
+78-->[androidx.emoji2:emoji2:1.0.0] C:\Users\willd\.gradle\caches\transforms-3\ba6262270fd4f3b49da8812088f6aa8b\transformed\emoji2-1.0.0\AndroidManifest.xml:33:17-49
+79            <meta-data
+79-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\willd\.gradle\caches\transforms-3\257021353500c848c3c07ed8e2eadf9a\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+80                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+80-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\willd\.gradle\caches\transforms-3\257021353500c848c3c07ed8e2eadf9a\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
+81                android:value="androidx.startup" />
+81-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\willd\.gradle\caches\transforms-3\257021353500c848c3c07ed8e2eadf9a\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+82        </provider>
+83    </application>
+84
+85</manifest>

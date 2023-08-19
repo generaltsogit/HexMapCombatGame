@@ -24,6 +24,7 @@ public class DraggableHexMapView extends GridLayout {
         setRowCount(numRows);
         setColumnCount(numCols);
         createHexagonGrid();
+        updateGridPosition(0,0);
     }
 
     private void createHexagonGrid() {
@@ -61,18 +62,28 @@ public class DraggableHexMapView extends GridLayout {
 
         return true;
     }
+
     private float gridTranslationX = 0;
     private float gridTranslationY = 0;
+    private int columnOffset = 190;
+    private int verticalOffset = 105; // Adjust this value for the vertical offset
 
     private void updateGridPosition(float dx, float dy) {
         gridTranslationX += dx;
         gridTranslationY += dy;
 
-        for (int i = 0; i < getChildCount(); i++) {
-            View child = getChildAt(i);
-            if (child instanceof ImageView) {
-                child.setTranslationX(gridTranslationX);
-                child.setTranslationY(gridTranslationY);
+        for (int row = 0; row < numRows; row++) {
+            for (int col = 0; col < numCols; col++) {
+                View child = getChildAt(row * numCols + col);
+                if (child instanceof ImageView) {
+                    // Apply vertical offset every other column
+                    int yOffset = (col % 2 == 1) ? verticalOffset : 0;
+
+                    float newX = (col * columnOffset) + gridTranslationX;
+                    float newY = row * child.getHeight() + gridTranslationY + yOffset;
+                    child.setX(newX);
+                    child.setY(newY);
+                }
             }
         }
     }
