@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.hexmapcombatgame.app-mergeDebugResources-23:/values-ldrtl-v17/values-ldrtl-v17.xml",
+            "outputFile": "com.example.hexmapcombatgame.app-mergeDebugResources-26:/values-ldrtl-v17/values-ldrtl-v17.xml",
             "map": [
                 {
                     "source": "C:\\Users\\willd\\.gradle\\caches\\transforms-3\\79d240ed010885bb2f24835c5fbf8b82\\transformed\\material-1.5.0\\res\\values-ldrtl-v17\\values-ldrtl-v17.xml",
@@ -11,6 +11,30 @@
                         "startOffsets": "55,191",
                         "endColumns": "135,140",
                         "endOffsets": "186,327"
+                    },
+                    "to": {
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "133,269",
+                        "endColumns": "135,140",
+                        "endOffsets": "264,405"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\willd\\.gradle\\caches\\transforms-3\\07746c587dcc0c23861bb268d3ed94d9\\transformed\\leanback-1.0.0\\res\\values-ldrtl-v17\\values-ldrtl-v17.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,133,178",
+                        "endColumns": "77,44,46",
+                        "endOffsets": "128,173,220"
+                    },
+                    "to": {
+                        "startLines": "2,5,6",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,410,455",
+                        "endColumns": "77,44,46",
+                        "endOffsets": "128,450,497"
                     }
                 }
             ]

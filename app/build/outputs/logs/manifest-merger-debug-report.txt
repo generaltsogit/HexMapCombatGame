@@ -1,35 +1,44 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\willd\Documents\AndroidAppIntelliJ\app\src\main\AndroidManifest.xml:2:1-47:12
-INJECTED from C:\Users\willd\Documents\AndroidAppIntelliJ\app\src\main\AndroidManifest.xml:2:1-47:12
-INJECTED from C:\Users\willd\Documents\AndroidAppIntelliJ\app\src\main\AndroidManifest.xml:2:1-47:12
-INJECTED from C:\Users\willd\Documents\AndroidAppIntelliJ\app\src\main\AndroidManifest.xml:2:1-47:12
+ADDED from C:\Users\willd\Documents\AndroidAppIntelliJ\app\src\main\AndroidManifest.xml:2:1-64:12
+INJECTED from C:\Users\willd\Documents\AndroidAppIntelliJ\app\src\main\AndroidManifest.xml:2:1-64:12
+INJECTED from C:\Users\willd\Documents\AndroidAppIntelliJ\app\src\main\AndroidManifest.xml:2:1-64:12
+INJECTED from C:\Users\willd\Documents\AndroidAppIntelliJ\app\src\main\AndroidManifest.xml:2:1-64:12
 MERGED from [com.google.android.material:material:1.5.0] C:\Users\willd\.gradle\caches\transforms-3\79d240ed010885bb2f24835c5fbf8b82\transformed\material-1.5.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] C:\Users\willd\.gradle\caches\transforms-3\75243b3bd7282b962e6481c1c47658d2\transformed\constraintlayout-2.1.3\AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.appcompat:appcompat:1.4.1] C:\Users\willd\.gradle\caches\transforms-3\1c9136cb2728431ac6b69b19781aeaf2\transformed\appcompat-1.4.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.leanback:leanback:1.0.0] C:\Users\willd\.gradle\caches\transforms-3\07746c587dcc0c23861bb268d3ed94d9\transformed\leanback-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\willd\.gradle\caches\transforms-3\2575bf5d293783424c12d60ffbbde5cd\transformed\glide-4.11.0\AndroidManifest.xml:2:1-12:12
 MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\willd\.gradle\caches\transforms-3\ff622147601536fc9a4f6a64fce6e705\transformed\viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\willd\.gradle\caches\transforms-3\3fe000f88ce9c309558055f34db743e4\transformed\fragment-1.3.6\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.activity:activity:1.2.4] C:\Users\willd\.gradle\caches\transforms-3\af06ad4c659029bf4353f483560bd98d\transformed\activity-1.2.4\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.appcompat:appcompat-resources:1.4.1] C:\Users\willd\.gradle\caches\transforms-3\f11e9d8c0de438334ddd930ee5233522\transformed\appcompat-resources-1.4.1\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] C:\Users\willd\.gradle\caches\transforms-3\162f2f9104847cfd63a5093fed8fc000\transformed\emoji2-views-helper-1.0.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\willd\.gradle\caches\transforms-3\ba6262270fd4f3b49da8812088f6aa8b\transformed\emoji2-1.0.0\AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\willd\.gradle\caches\transforms-3\687e9af997dfbf6c3427ee13fe39caac\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\willd\.gradle\caches\transforms-3\e43b012f6133232309cff90398dd9c0d\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\willd\.gradle\caches\transforms-3\d3bdc43ab83249f73fc74c037d0c299f\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\willd\.gradle\caches\transforms-3\ea3c7cb7161ced97f6d0bcff5a42e7ea\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.transition:transition:1.2.0] C:\Users\willd\.gradle\caches\transforms-3\56e168613ee62814746eea40d8d8ff9e\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\willd\.gradle\caches\transforms-3\0b1af9adf8688ea74cce98b4a18a2ff7\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\willd\.gradle\caches\transforms-3\c6dc1a88608f0b6f12358c682ea1100f\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\willd\.gradle\caches\transforms-3\d8c770db4d52ef518aaab4c4afdac1e3\transformed\media-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\willd\.gradle\caches\transforms-3\5da8e53502d86034257189a2a77f23af\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\willd\.gradle\caches\transforms-3\1e2e3cf2674f665a9ebd4b8f8ae6f8d6\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.loader:loader:1.0.0] C:\Users\willd\.gradle\caches\transforms-3\419c314d5ffe9a2b2a965d86260c645b\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\willd\.gradle\caches\transforms-3\5ea37f53976d1f93027a71af1e32a117\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\willd\.gradle\caches\transforms-3\a269be2b320a0021398c9abbfb9e59a9\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.customview:customview:1.1.0] C:\Users\willd\.gradle\caches\transforms-3\720e6ecca7e0965da3e5a89521f381c9\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\willd\.gradle\caches\transforms-3\0f47a6a3a2f32737d30f4afa5b14ce9b\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\willd\.gradle\caches\transforms-3\f60d25e6e7988a4ecca3b92cd919b2bd\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.core:core:1.7.0] C:\Users\willd\.gradle\caches\transforms-3\5a356ff8c23230ba02b12f70eba5b868\transformed\core-1.7.0\AndroidManifest.xml:17:1-26:12
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\willd\.gradle\caches\transforms-3\c921c07fb337295f0ab7b3aee9792a8b\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\willd\.gradle\caches\transforms-3\0a55eaec2de76bb08f92f818201bc947\transformed\lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\willd\.gradle\caches\transforms-3\3a7d4d6a61d6bdff66d1af06acddce5e\transformed\savedstate-1.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\willd\.gradle\caches\transforms-3\2ec356f9a63398cd0220513063cbec3e\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\willd\.gradle\caches\transforms-3\2f204a95b0666351942fcbfa25fa946f\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\willd\.gradle\caches\transforms-3\36d88c369d03c520416c41fdb9f83a78\transformed\gifdecoder-4.11.0\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\willd\.gradle\caches\transforms-3\111a9b8d2e101bdb388966d16811909b\transformed\exifinterface-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\willd\.gradle\caches\transforms-3\e685c0126ff75f27ed2cab53ad1e28d1\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
 MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\willd\.gradle\caches\transforms-3\257021353500c848c3c07ed8e2eadf9a\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:17:1-37:12
 MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\willd\.gradle\caches\transforms-3\7872cab22c19634cd1d0dae13db73446\transformed\startup-runtime-1.0.0\AndroidManifest.xml:17:1-33:12
@@ -43,35 +52,55 @@ MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\willd\.gradle\ca
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\willd\.gradle\caches\transforms-3\02f0be93bfbf45ed7fbcc3fad4277b3e\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.print:print:1.0.0] C:\Users\willd\.gradle\caches\transforms-3\60d5c335d6358066336989d62c6c9fd0\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\willd\.gradle\caches\transforms-3\5c0c719035f259cc9d771cb621f7c6fd\transformed\annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
-INJECTED from C:\Users\willd\Documents\AndroidAppIntelliJ\app\src\main\AndroidManifest.xml:2:1-47:12
-INJECTED from C:\Users\willd\Documents\AndroidAppIntelliJ\app\src\main\AndroidManifest.xml:2:1-47:12
-INJECTED from C:\Users\willd\Documents\AndroidAppIntelliJ\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from C:\Users\willd\Documents\AndroidAppIntelliJ\app\src\main\AndroidManifest.xml:2:1-64:12
+INJECTED from C:\Users\willd\Documents\AndroidAppIntelliJ\app\src\main\AndroidManifest.xml:2:1-64:12
+INJECTED from C:\Users\willd\Documents\AndroidAppIntelliJ\app\src\main\AndroidManifest.xml:2:1-64:12
 	package
 		INJECTED from C:\Users\willd\Documents\AndroidAppIntelliJ\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\willd\Documents\AndroidAppIntelliJ\app\src\main\AndroidManifest.xml:2:1-47:12
+		ADDED from C:\Users\willd\Documents\AndroidAppIntelliJ\app\src\main\AndroidManifest.xml:2:1-64:12
 		INJECTED from C:\Users\willd\Documents\AndroidAppIntelliJ\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\willd\Documents\AndroidAppIntelliJ\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\willd\Documents\AndroidAppIntelliJ\app\src\main\AndroidManifest.xml:2:1-47:12
+		ADDED from C:\Users\willd\Documents\AndroidAppIntelliJ\app\src\main\AndroidManifest.xml:2:1-64:12
 		INJECTED from C:\Users\willd\Documents\AndroidAppIntelliJ\app\src\main\AndroidManifest.xml
 	xmlns:tools
-		ADDED from C:\Users\willd\Documents\AndroidAppIntelliJ\app\src\main\AndroidManifest.xml:3:5-51
+		ADDED from C:\Users\willd\Documents\AndroidAppIntelliJ\app\src\main\AndroidManifest.xml:3:11-57
 	android:versionCode
 		INJECTED from C:\Users\willd\Documents\AndroidAppIntelliJ\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\willd\Documents\AndroidAppIntelliJ\app\src\main\AndroidManifest.xml:2:1-47:12
+		ADDED from C:\Users\willd\Documents\AndroidAppIntelliJ\app\src\main\AndroidManifest.xml:2:1-64:12
 		INJECTED from C:\Users\willd\Documents\AndroidAppIntelliJ\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\willd\Documents\AndroidAppIntelliJ\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\willd\Documents\AndroidAppIntelliJ\app\src\main\AndroidManifest.xml:5:5-66
+	android:name
+		ADDED from C:\Users\willd\Documents\AndroidAppIntelliJ\app\src\main\AndroidManifest.xml:5:22-64
+uses-feature#android.hardware.touchscreen
+ADDED from C:\Users\willd\Documents\AndroidAppIntelliJ\app\src\main\AndroidManifest.xml:7:5-9:39
+	android:required
+		ADDED from C:\Users\willd\Documents\AndroidAppIntelliJ\app\src\main\AndroidManifest.xml:9:13-37
+	android:name
+		ADDED from C:\Users\willd\Documents\AndroidAppIntelliJ\app\src\main\AndroidManifest.xml:8:13-56
+uses-feature#android.software.leanback
+ADDED from C:\Users\willd\Documents\AndroidAppIntelliJ\app\src\main\AndroidManifest.xml:10:5-12:38
+	android:required
+		ADDED from C:\Users\willd\Documents\AndroidAppIntelliJ\app\src\main\AndroidManifest.xml:12:13-36
+	android:name
+		ADDED from C:\Users\willd\Documents\AndroidAppIntelliJ\app\src\main\AndroidManifest.xml:11:13-53
 application
-ADDED from C:\Users\willd\Documents\AndroidAppIntelliJ\app\src\main\AndroidManifest.xml:5:5-45:19
+ADDED from C:\Users\willd\Documents\AndroidAppIntelliJ\app\src\main\AndroidManifest.xml:14:5-62:19
 MERGED from [com.google.android.material:material:1.5.0] C:\Users\willd\.gradle\caches\transforms-3\79d240ed010885bb2f24835c5fbf8b82\transformed\material-1.5.0\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.5.0] C:\Users\willd\.gradle\caches\transforms-3\79d240ed010885bb2f24835c5fbf8b82\transformed\material-1.5.0\AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] C:\Users\willd\.gradle\caches\transforms-3\75243b3bd7282b962e6481c1c47658d2\transformed\constraintlayout-2.1.3\AndroidManifest.xml:9:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] C:\Users\willd\.gradle\caches\transforms-3\75243b3bd7282b962e6481c1c47658d2\transformed\constraintlayout-2.1.3\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\willd\.gradle\caches\transforms-3\2575bf5d293783424c12d60ffbbde5cd\transformed\glide-4.11.0\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\willd\.gradle\caches\transforms-3\2575bf5d293783424c12d60ffbbde5cd\transformed\glide-4.11.0\AndroidManifest.xml:10:5-20
 MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\willd\.gradle\caches\transforms-3\ba6262270fd4f3b49da8812088f6aa8b\transformed\emoji2-1.0.0\AndroidManifest.xml:25:5-35:19
 MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\willd\.gradle\caches\transforms-3\ba6262270fd4f3b49da8812088f6aa8b\transformed\emoji2-1.0.0\AndroidManifest.xml:25:5-35:19
 MERGED from [androidx.core:core:1.7.0] C:\Users\willd\.gradle\caches\transforms-3\5a356ff8c23230ba02b12f70eba5b868\transformed\core-1.7.0\AndroidManifest.xml:24:5-89
 MERGED from [androidx.core:core:1.7.0] C:\Users\willd\.gradle\caches\transforms-3\5a356ff8c23230ba02b12f70eba5b868\transformed\core-1.7.0\AndroidManifest.xml:24:5-89
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\willd\.gradle\caches\transforms-3\36d88c369d03c520416c41fdb9f83a78\transformed\gifdecoder-4.11.0\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\willd\.gradle\caches\transforms-3\36d88c369d03c520416c41fdb9f83a78\transformed\gifdecoder-4.11.0\AndroidManifest.xml:9:5-20
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\willd\.gradle\caches\transforms-3\e685c0126ff75f27ed2cab53ad1e28d1\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\willd\.gradle\caches\transforms-3\e685c0126ff75f27ed2cab53ad1e28d1\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
 MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\willd\.gradle\caches\transforms-3\257021353500c848c3c07ed8e2eadf9a\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:25:5-35:19
@@ -81,63 +110,69 @@ MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\willd\.gradle\cach
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.7.0] C:\Users\willd\.gradle\caches\transforms-3\5a356ff8c23230ba02b12f70eba5b868\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
 	android:supportsRtl
-		ADDED from C:\Users\willd\Documents\AndroidAppIntelliJ\app\src\main\AndroidManifest.xml:12:9-35
+		ADDED from C:\Users\willd\Documents\AndroidAppIntelliJ\app\src\main\AndroidManifest.xml:21:13-39
 	android:label
-		ADDED from C:\Users\willd\Documents\AndroidAppIntelliJ\app\src\main\AndroidManifest.xml:10:9-41
+		ADDED from C:\Users\willd\Documents\AndroidAppIntelliJ\app\src\main\AndroidManifest.xml:19:13-45
 	android:fullBackupContent
-		ADDED from C:\Users\willd\Documents\AndroidAppIntelliJ\app\src\main\AndroidManifest.xml:8:9-54
+		ADDED from C:\Users\willd\Documents\AndroidAppIntelliJ\app\src\main\AndroidManifest.xml:17:13-58
 	android:roundIcon
-		ADDED from C:\Users\willd\Documents\AndroidAppIntelliJ\app\src\main\AndroidManifest.xml:11:9-54
+		ADDED from C:\Users\willd\Documents\AndroidAppIntelliJ\app\src\main\AndroidManifest.xml:20:13-58
 	tools:targetApi
-		ADDED from C:\Users\willd\Documents\AndroidAppIntelliJ\app\src\main\AndroidManifest.xml:14:9-29
+		ADDED from C:\Users\willd\Documents\AndroidAppIntelliJ\app\src\main\AndroidManifest.xml:23:13-33
 	android:icon
-		ADDED from C:\Users\willd\Documents\AndroidAppIntelliJ\app\src\main\AndroidManifest.xml:9:9-43
+		ADDED from C:\Users\willd\Documents\AndroidAppIntelliJ\app\src\main\AndroidManifest.xml:18:13-47
 	android:allowBackup
-		ADDED from C:\Users\willd\Documents\AndroidAppIntelliJ\app\src\main\AndroidManifest.xml:6:9-35
+		ADDED from C:\Users\willd\Documents\AndroidAppIntelliJ\app\src\main\AndroidManifest.xml:15:13-39
 	android:theme
-		ADDED from C:\Users\willd\Documents\AndroidAppIntelliJ\app\src\main\AndroidManifest.xml:13:9-54
+		ADDED from C:\Users\willd\Documents\AndroidAppIntelliJ\app\src\main\AndroidManifest.xml:22:13-58
 	android:dataExtractionRules
-		ADDED from C:\Users\willd\Documents\AndroidAppIntelliJ\app\src\main\AndroidManifest.xml:7:9-65
-activity#com.example.hexmapcombatgame.ProfilePageActivity
-ADDED from C:\Users\willd\Documents\AndroidAppIntelliJ\app\src\main\AndroidManifest.xml:15:9-22:20
-	android:screenOrientation
-		ADDED from C:\Users\willd\Documents\AndroidAppIntelliJ\app\src\main\AndroidManifest.xml:18:13-50
+		ADDED from C:\Users\willd\Documents\AndroidAppIntelliJ\app\src\main\AndroidManifest.xml:16:13-69
+activity#com.example.hexmapcombatgame.BattleMapActivity
+ADDED from C:\Users\willd\Documents\AndroidAppIntelliJ\app\src\main\AndroidManifest.xml:24:9-30:20
 	android:exported
-		ADDED from C:\Users\willd\Documents\AndroidAppIntelliJ\app\src\main\AndroidManifest.xml:17:13-37
+		ADDED from C:\Users\willd\Documents\AndroidAppIntelliJ\app\src\main\AndroidManifest.xml:26:17-41
 	android:name
-		ADDED from C:\Users\willd\Documents\AndroidAppIntelliJ\app\src\main\AndroidManifest.xml:16:13-48
+		ADDED from C:\Users\willd\Documents\AndroidAppIntelliJ\app\src\main\AndroidManifest.xml:25:17-50
 meta-data#android.app.lib_name
-ADDED from C:\Users\willd\Documents\AndroidAppIntelliJ\app\src\main\AndroidManifest.xml:19:13-21:36
+ADDED from C:\Users\willd\Documents\AndroidAppIntelliJ\app\src\main\AndroidManifest.xml:27:13-29:39
 	android:value
-		ADDED from C:\Users\willd\Documents\AndroidAppIntelliJ\app\src\main\AndroidManifest.xml:21:17-33
+		ADDED from C:\Users\willd\Documents\AndroidAppIntelliJ\app\src\main\AndroidManifest.xml:29:21-37
 	android:name
-		ADDED from C:\Users\willd\Documents\AndroidAppIntelliJ\app\src\main\AndroidManifest.xml:20:17-52
+		ADDED from C:\Users\willd\Documents\AndroidAppIntelliJ\app\src\main\AndroidManifest.xml:28:21-56
+activity#com.example.hexmapcombatgame.ProfilePageActivity
+ADDED from C:\Users\willd\Documents\AndroidAppIntelliJ\app\src\main\AndroidManifest.xml:32:9-39:20
+	android:screenOrientation
+		ADDED from C:\Users\willd\Documents\AndroidAppIntelliJ\app\src\main\AndroidManifest.xml:35:17-54
+	android:exported
+		ADDED from C:\Users\willd\Documents\AndroidAppIntelliJ\app\src\main\AndroidManifest.xml:34:17-41
+	android:name
+		ADDED from C:\Users\willd\Documents\AndroidAppIntelliJ\app\src\main\AndroidManifest.xml:33:17-52
 activity#com.example.hexmapcombatgame.ConquestPageActivity
-ADDED from C:\Users\willd\Documents\AndroidAppIntelliJ\app\src\main\AndroidManifest.xml:23:9-30:20
+ADDED from C:\Users\willd\Documents\AndroidAppIntelliJ\app\src\main\AndroidManifest.xml:40:9-47:20
 	android:screenOrientation
-		ADDED from C:\Users\willd\Documents\AndroidAppIntelliJ\app\src\main\AndroidManifest.xml:26:13-50
+		ADDED from C:\Users\willd\Documents\AndroidAppIntelliJ\app\src\main\AndroidManifest.xml:43:17-54
 	android:exported
-		ADDED from C:\Users\willd\Documents\AndroidAppIntelliJ\app\src\main\AndroidManifest.xml:25:13-37
+		ADDED from C:\Users\willd\Documents\AndroidAppIntelliJ\app\src\main\AndroidManifest.xml:42:17-41
 	android:name
-		ADDED from C:\Users\willd\Documents\AndroidAppIntelliJ\app\src\main\AndroidManifest.xml:24:13-49
+		ADDED from C:\Users\willd\Documents\AndroidAppIntelliJ\app\src\main\AndroidManifest.xml:41:17-53
 activity#com.example.hexmapcombatgame.MainActivity
-ADDED from C:\Users\willd\Documents\AndroidAppIntelliJ\app\src\main\AndroidManifest.xml:31:9-44:20
+ADDED from C:\Users\willd\Documents\AndroidAppIntelliJ\app\src\main\AndroidManifest.xml:48:9-61:20
 	android:screenOrientation
-		ADDED from C:\Users\willd\Documents\AndroidAppIntelliJ\app\src\main\AndroidManifest.xml:34:13-50
+		ADDED from C:\Users\willd\Documents\AndroidAppIntelliJ\app\src\main\AndroidManifest.xml:51:17-54
 	android:exported
-		ADDED from C:\Users\willd\Documents\AndroidAppIntelliJ\app\src\main\AndroidManifest.xml:33:13-36
+		ADDED from C:\Users\willd\Documents\AndroidAppIntelliJ\app\src\main\AndroidManifest.xml:50:17-40
 	android:name
-		ADDED from C:\Users\willd\Documents\AndroidAppIntelliJ\app\src\main\AndroidManifest.xml:32:13-41
+		ADDED from C:\Users\willd\Documents\AndroidAppIntelliJ\app\src\main\AndroidManifest.xml:49:17-45
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\willd\Documents\AndroidAppIntelliJ\app\src\main\AndroidManifest.xml:35:13-39:29
+ADDED from C:\Users\willd\Documents\AndroidAppIntelliJ\app\src\main\AndroidManifest.xml:52:13-56:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\willd\Documents\AndroidAppIntelliJ\app\src\main\AndroidManifest.xml:36:17-69
+ADDED from C:\Users\willd\Documents\AndroidAppIntelliJ\app\src\main\AndroidManifest.xml:53:17-68
 	android:name
-		ADDED from C:\Users\willd\Documents\AndroidAppIntelliJ\app\src\main\AndroidManifest.xml:36:25-66
+		ADDED from C:\Users\willd\Documents\AndroidAppIntelliJ\app\src\main\AndroidManifest.xml:53:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\willd\Documents\AndroidAppIntelliJ\app\src\main\AndroidManifest.xml:38:17-77
+ADDED from C:\Users\willd\Documents\AndroidAppIntelliJ\app\src\main\AndroidManifest.xml:55:17-76
 	android:name
-		ADDED from C:\Users\willd\Documents\AndroidAppIntelliJ\app\src\main\AndroidManifest.xml:38:27-74
+		ADDED from C:\Users\willd\Documents\AndroidAppIntelliJ\app\src\main\AndroidManifest.xml:55:27-74
 uses-sdk
 INJECTED from C:\Users\willd\Documents\AndroidAppIntelliJ\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\willd\Documents\AndroidAppIntelliJ\app\src\main\AndroidManifest.xml
@@ -148,6 +183,10 @@ MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] C:\Users\willd\.g
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] C:\Users\willd\.gradle\caches\transforms-3\75243b3bd7282b962e6481c1c47658d2\transformed\constraintlayout-2.1.3\AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.appcompat:appcompat:1.4.1] C:\Users\willd\.gradle\caches\transforms-3\1c9136cb2728431ac6b69b19781aeaf2\transformed\appcompat-1.4.1\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.appcompat:appcompat:1.4.1] C:\Users\willd\.gradle\caches\transforms-3\1c9136cb2728431ac6b69b19781aeaf2\transformed\appcompat-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.leanback:leanback:1.0.0] C:\Users\willd\.gradle\caches\transforms-3\07746c587dcc0c23861bb268d3ed94d9\transformed\leanback-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.leanback:leanback:1.0.0] C:\Users\willd\.gradle\caches\transforms-3\07746c587dcc0c23861bb268d3ed94d9\transformed\leanback-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\willd\.gradle\caches\transforms-3\2575bf5d293783424c12d60ffbbde5cd\transformed\glide-4.11.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\willd\.gradle\caches\transforms-3\2575bf5d293783424c12d60ffbbde5cd\transformed\glide-4.11.0\AndroidManifest.xml:6:5-8:41
 MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\willd\.gradle\caches\transforms-3\ff622147601536fc9a4f6a64fce6e705\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\willd\.gradle\caches\transforms-3\ff622147601536fc9a4f6a64fce6e705\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\willd\.gradle\caches\transforms-3\3fe000f88ce9c309558055f34db743e4\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
@@ -160,6 +199,8 @@ MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] C:\Users\willd\.gradle\c
 MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] C:\Users\willd\.gradle\caches\transforms-3\162f2f9104847cfd63a5093fed8fc000\transformed\emoji2-views-helper-1.0.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\willd\.gradle\caches\transforms-3\ba6262270fd4f3b49da8812088f6aa8b\transformed\emoji2-1.0.0\AndroidManifest.xml:21:5-23:41
 MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\willd\.gradle\caches\transforms-3\ba6262270fd4f3b49da8812088f6aa8b\transformed\emoji2-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\willd\.gradle\caches\transforms-3\687e9af997dfbf6c3427ee13fe39caac\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\willd\.gradle\caches\transforms-3\687e9af997dfbf6c3427ee13fe39caac\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\willd\.gradle\caches\transforms-3\e43b012f6133232309cff90398dd9c0d\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\willd\.gradle\caches\transforms-3\e43b012f6133232309cff90398dd9c0d\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\willd\.gradle\caches\transforms-3\d3bdc43ab83249f73fc74c037d0c299f\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
@@ -172,6 +213,8 @@ MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\wil
 MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\willd\.gradle\caches\transforms-3\0b1af9adf8688ea74cce98b4a18a2ff7\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\willd\.gradle\caches\transforms-3\c6dc1a88608f0b6f12358c682ea1100f\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\willd\.gradle\caches\transforms-3\c6dc1a88608f0b6f12358c682ea1100f\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.0.0] C:\Users\willd\.gradle\caches\transforms-3\d8c770db4d52ef518aaab4c4afdac1e3\transformed\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\willd\.gradle\caches\transforms-3\d8c770db4d52ef518aaab4c4afdac1e3\transformed\media-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\willd\.gradle\caches\transforms-3\5da8e53502d86034257189a2a77f23af\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\willd\.gradle\caches\transforms-3\5da8e53502d86034257189a2a77f23af\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\willd\.gradle\caches\transforms-3\1e2e3cf2674f665a9ebd4b8f8ae6f8d6\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
@@ -180,8 +223,14 @@ MERGED from [androidx.loader:loader:1.0.0] C:\Users\willd\.gradle\caches\transfo
 MERGED from [androidx.loader:loader:1.0.0] C:\Users\willd\.gradle\caches\transforms-3\419c314d5ffe9a2b2a965d86260c645b\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\willd\.gradle\caches\transforms-3\5ea37f53976d1f93027a71af1e32a117\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\willd\.gradle\caches\transforms-3\5ea37f53976d1f93027a71af1e32a117\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\willd\.gradle\caches\transforms-3\a269be2b320a0021398c9abbfb9e59a9\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\willd\.gradle\caches\transforms-3\a269be2b320a0021398c9abbfb9e59a9\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.customview:customview:1.1.0] C:\Users\willd\.gradle\caches\transforms-3\720e6ecca7e0965da3e5a89521f381c9\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.customview:customview:1.1.0] C:\Users\willd\.gradle\caches\transforms-3\720e6ecca7e0965da3e5a89521f381c9\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\willd\.gradle\caches\transforms-3\0f47a6a3a2f32737d30f4afa5b14ce9b\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\willd\.gradle\caches\transforms-3\0f47a6a3a2f32737d30f4afa5b14ce9b\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\willd\.gradle\caches\transforms-3\f60d25e6e7988a4ecca3b92cd919b2bd\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\willd\.gradle\caches\transforms-3\f60d25e6e7988a4ecca3b92cd919b2bd\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.core:core:1.7.0] C:\Users\willd\.gradle\caches\transforms-3\5a356ff8c23230ba02b12f70eba5b868\transformed\core-1.7.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.core:core:1.7.0] C:\Users\willd\.gradle\caches\transforms-3\5a356ff8c23230ba02b12f70eba5b868\transformed\core-1.7.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\willd\.gradle\caches\transforms-3\c921c07fb337295f0ab7b3aee9792a8b\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
@@ -194,6 +243,10 @@ MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\willd\.gradl
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\willd\.gradle\caches\transforms-3\2ec356f9a63398cd0220513063cbec3e\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\willd\.gradle\caches\transforms-3\2f204a95b0666351942fcbfa25fa946f\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\willd\.gradle\caches\transforms-3\2f204a95b0666351942fcbfa25fa946f\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\willd\.gradle\caches\transforms-3\36d88c369d03c520416c41fdb9f83a78\transformed\gifdecoder-4.11.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\willd\.gradle\caches\transforms-3\36d88c369d03c520416c41fdb9f83a78\transformed\gifdecoder-4.11.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\willd\.gradle\caches\transforms-3\111a9b8d2e101bdb388966d16811909b\transformed\exifinterface-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\willd\.gradle\caches\transforms-3\111a9b8d2e101bdb388966d16811909b\transformed\exifinterface-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\willd\.gradle\caches\transforms-3\e685c0126ff75f27ed2cab53ad1e28d1\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\willd\.gradle\caches\transforms-3\e685c0126ff75f27ed2cab53ad1e28d1\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\willd\.gradle\caches\transforms-3\257021353500c848c3c07ed8e2eadf9a\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:21:5-23:41

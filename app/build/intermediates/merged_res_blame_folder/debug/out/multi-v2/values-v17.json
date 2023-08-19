@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.hexmapcombatgame.app-mergeDebugResources-23:/values-v17/values-v17.xml",
+            "outputFile": "com.example.hexmapcombatgame.app-mergeDebugResources-26:/values-v17/values-v17.xml",
             "map": [
                 {
                     "source": "C:\\Users\\willd\\.gradle\\caches\\transforms-3\\1c9136cb2728431ac6b69b19781aeaf2\\transformed\\appcompat-1.4.1\\res\\values-v17\\values-v17.xml",

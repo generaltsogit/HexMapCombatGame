@@ -24,4 +24,9 @@ public class ConquestPageActivity extends AppCompatActivity {
         Intent intent = new Intent(this, MainActivity.class);
         startActivity(intent);
     }
+
+    public void goToMap1(View view) {
+        Intent intent = new Intent(this, BattleMapActivity.class);
+        startActivity(intent);
+    }
 }
