@@ -38,6 +38,9 @@ public class DraggableHexMapView extends GridLayout {
         }
     }
 
+    private int highlightedRow = -1; // Track the currently highlighted hexagon row
+    private int highlightedCol = -1; // Track the currently highlighted hexagon column
+
     @Override
     public boolean onTouchEvent(MotionEvent event) {
         float x = event.getX();
@@ -47,12 +50,49 @@ public class DraggableHexMapView extends GridLayout {
             case MotionEvent.ACTION_DOWN:
                 lastTouchX = x;
                 lastTouchY = y;
+
+                // Check if there is a highlighted hexagon
+                if (highlightedRow != -1 && highlightedCol != -1) {
+                    // Clear the highlight by resetting the background color
+                    View highlightedHexagon = getChildAt(highlightedRow * numCols + highlightedCol);
+                    highlightedHexagon.setBackgroundResource(0); // Clear background color
+
+                    // Reset the highlighted coordinates
+                    highlightedRow = -1;
+                    highlightedCol = -1;
+
+                    return true; // Exit the onTouchEvent
+                }
+
+                // Iterate through hexagons to check for click
+                for (int row = 0; row < numRows; row++) {
+                    for (int col = 0; col < numCols; col++) {
+                        View child = getChildAt(row * numCols + col);
+                        if (child instanceof ImageView) {
+                            if (isInsideHexagon(x, y, child)) {
+                                // Highlight the hexagon
+                                child.setBackgroundColor(getResources().getColor(android.R.color.darker_gray));
+
+                                // Store the highlighted coordinates
+                                highlightedRow = row;
+                                highlightedCol = col;
+
+                                // Print the coordinates to the terminal
+                                System.out.println("Clicked hexagon coordinates - Row: " + row + ", Col: " + col);
+
+                                // Perform any other desired action here
+
+                                return true; // Exit the onTouchEvent
+                            }
+                        }
+                    }
+                }
+
                 break;
             case MotionEvent.ACTION_MOVE:
+                // Your existing code for moving the grid
                 float dx = x - lastTouchX;
                 float dy = y - lastTouchY;
-                // Update the position of the hexagonal grid based on dx and dy
-                // Invalidate the view to trigger redraw
                 updateGridPosition(dx, dy);
                 invalidate();
                 lastTouchX = x;
@@ -61,6 +101,20 @@ public class DraggableHexMapView extends GridLayout {
         }
 
         return true;
+    }
+
+    private boolean isInsideHexagon(float x, float y, View hexagonView) {
+        // Get the position and size of the hexagon view
+        float hexagonX = hexagonView.getX();
+        float hexagonY = hexagonView.getY();
+        int hexagonWidth = hexagonView.getWidth();
+        int hexagonHeight = hexagonView.getHeight();
+
+        // Check if the touch coordinates are inside the hexagon
+        boolean isInside = x >= hexagonX && x <= hexagonX + hexagonWidth &&
+                y >= hexagonY && y <= hexagonY + hexagonHeight;
+
+        return isInside;
     }
 
     private float gridTranslationX = 0;
